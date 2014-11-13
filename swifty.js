@@ -1,1 +1,1 @@
-var swifty = console;
+var swifty = tay = taytay = tswizzle = itsBecky = console;
