@@ -1,4 +1,4 @@
 swifty.js
 =========
 
-Better console.log
+Better DevTools `console`
